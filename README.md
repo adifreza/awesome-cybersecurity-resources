@@ -60,6 +60,7 @@ This list is maintained by an Informatics student specializing in network securi
 - [Covenant](https://github.com/cobbr/Covenant) - .NET command-and-control framework with a collaborative web interface.
 - [Havoc](https://github.com/HavocFramework/Havoc) - Modern, modular post-exploitation command-and-control framework.
 - [BeEF](https://github.com/beefproject/beef) - Browser Exploitation Framework focused on client-side attack vectors.
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform; an LLM orchestrates specialist agents and offensive tools and proves each finding with a real exploit.
 - [Villain](https://github.com/t3l3machus/Villain) - Backdoor generator and multi-session shell handler with peer-linking.
 
 ## Wireless Security
